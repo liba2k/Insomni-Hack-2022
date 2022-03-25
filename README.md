@@ -9,4 +9,12 @@
     * Example script for MicroPython UEFI protocol usage `capabilities.py`
 * Patched version of EFI shell without 5 seconds delay `bootx64.efi`
 
+## Executing brick on the EFI module 
+[![Watch the video](https://img.youtube.com/vi/UKoEYGsuQXE/maxresdefault.jpg)](https://youtu.be/UKoEYGsuQXE)
 
+
+## Secure Boot bypass demo
+[![Watch the video](https://img.youtube.com/vi/hHLKvjTZacE/maxresdefault.jpg)](https://youtu.be/hHLKvjTZacE)
+
+## Related projects
+https://github.com/Sentinel-One/brick
