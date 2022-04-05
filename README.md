@@ -10,11 +10,14 @@
 * Patched version of EFI shell without 5 seconds delay `bootx64.efi`
 
 ## Executing brick on the EFI module 
-[![Watch the video](https://img.youtube.com/vi/UKoEYGsuQXE/maxresdefault.jpg)](https://youtu.be/UKoEYGsuQXE)
+[![Watch the video](https://img.youtube.com/vi/UKoEYGsuQXE/hqdefault.jpg)](https://youtu.be/UKoEYGsuQXE)
 
 
 ## Secure Boot bypass demo
-[![Watch the video](https://img.youtube.com/vi/hHLKvjTZacE/maxresdefault.jpg)](https://youtu.be/hHLKvjTZacE)
+[![Watch the video](https://img.youtube.com/vi/hHLKvjTZacE/hqdefault.jpg)](https://youtu.be/hHLKvjTZacE)
+
+## Talk video
+[![Watch the video](https://img.youtube.com/vi/ge_TnLfTv8I/hqdefault.jpg)](https://youtu.be/ge_TnLfTv8I)
 
 ## Related projects
 https://github.com/Sentinel-One/brick
